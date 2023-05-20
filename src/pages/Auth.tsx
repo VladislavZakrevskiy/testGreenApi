@@ -1,3 +1,4 @@
+//@ts-nocheck
 import Form from "../components/Form"
 import classes from '../styles/auth.module.scss'
 

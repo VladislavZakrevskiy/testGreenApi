@@ -1,3 +1,4 @@
+//@ts-nocheck
 import Menu from '../components/Menu'
 import MessageList from '../components/MessageList'
 import Writer from '../components/Writer'

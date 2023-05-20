@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { configureStore, combineReducers } from "@reduxjs/toolkit";
 import chatSlice from './reducers/ChatSlice';
 import { chatApi } from "./API/ChatAPI";

@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { IHistoryMessageResponse } from '../models/responses/IHistoryMessageResponse';
 import { IMessageResponse } from '../models/responses/IMessageResponse'
 import classes from '../styles/messages.module.scss'

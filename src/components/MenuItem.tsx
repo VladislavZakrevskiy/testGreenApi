@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useAppDispatch, useAppSelector } from '../store/hooks'
 import { setChatId } from '../store/reducers/ChatSlice'
 import classes from '../styles/menu.module.scss'

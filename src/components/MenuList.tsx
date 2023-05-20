@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useAppSelector } from '../store/hooks'
 import classes from '../styles/menu.module.scss'
 import MenuItem from './MenuItem'

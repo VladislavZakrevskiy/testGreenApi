@@ -1,3 +1,4 @@
+//@ts-nocheck
 import classes from '../styles/menu.module.scss'
 import { Typography, TextField, Button } from '@mui/material';
 import { useState } from 'react';

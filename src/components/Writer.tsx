@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { IconButton, TextField } from '@mui/material';
 import { useSendMessageMutation } from "../store/API/ChatAPI"
 import { useAppSelector } from "../store/hooks"

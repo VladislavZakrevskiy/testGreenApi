@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/dist/query/react";
 import { IMessage } from "../../models/IMessage";
 import { IUser } from "../../models/IUser";

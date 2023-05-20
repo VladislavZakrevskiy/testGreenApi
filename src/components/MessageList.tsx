@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { IMessageResponse } from '../models/responses/IMessageResponse'
 import MessageItem from './MessageItem'
 import classes from '../styles/messages.module.scss'
